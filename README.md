@@ -14,7 +14,7 @@ Esse é um projeto destinado a disciplina de Tecnologia WEB 1 e 2 do curso de Sis
 
 # Conteúdo do repositório
 
-[**/documentacao/code/**](https://github.com/DarioTeles/MackS2MetaCortex/blob/master/code/) - Códigos do projeto para serem copiados na pasta de hospedagem do servidor web.
+[**/documentacao/code/**](https://github.com/DarioTeles/MackS2MetaCortex/blob/master/code/) - Códigos do projeto para serem copiados na pasta de hospedagem do Servidor Web.
 [**/documentacao/bd/**](https://github.com/DarioTeles/MackS2MetaCortex/blob/master/bd/) - Backup da base de dados utilizado no desenvolvimento do projeto.
 
 # Recursos
