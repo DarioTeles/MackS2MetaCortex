@@ -3,6 +3,9 @@
 <p align="center">  
 	<img src="https://github.com/DarioTeles/MackS2MetaCortex/blob/master/images/demonstracao1.png" width="900" height="500"/>
 
+</p>
+
+<p align="center"> 
 	<img src="https://github.com/DarioTeles/MackS2MetaCortex/blob/master/images/demonstracao2.png" width="680" height="274"/>
 
 </p>
