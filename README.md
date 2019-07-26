@@ -10,8 +10,6 @@
 
 </p>
 
-<b>
-
 Esse é um projeto destinado a disciplina de Tecnologia WEB 1 e 2 do curso de Sistemas de Informação realizada no primeiro semestre de 2016 e consiste em um site de consultoria de TI no qual possui páginas de apresentação, formulários de cadastros e inserção de dados como por exemplo chamados técnicos. No projeto foi utilizado linguagens de programação PHP e JavaScript.
 
 # Conteúdo do repositório
