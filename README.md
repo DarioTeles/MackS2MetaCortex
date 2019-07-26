@@ -1,9 +1,9 @@
 # MackS2MetaCortex
 
 <p align="center">  
-	<img src="https://github.com/DarioTeles/MackS2MetaCortex/blob/master/images/demonstracao1.JPG"/>
+	<img src="https://github.com/DarioTeles/MackS2MetaCortex/blob/master/images/demonstracao1.png" width="500" height="1000"/>
 
-	<img src="https://github.com/DarioTeles/MackS2MetaCortex/blob/master/images/demonstracao2.JPG"/>
+	<img src="https://github.com/DarioTeles/MackS2MetaCortex/blob/master/images/demonstracao2.png" />
 
 </p>
 
