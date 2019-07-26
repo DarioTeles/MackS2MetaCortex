@@ -1,0 +1,72 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/* Propriedades CSS - Article - Conteúdo */
+
+#transacao{
+   	margin:auto;
+    	width:1450px;
+    	height:600px;
+    	background-image: url("../Imagens/imagem001.jpg");
+    	background-position: center;
+}
+
+#transacao section{
+    	padding-top:200px;
+    	margin:auto;
+    	width:1024px;
+	height:100px;
+    	color: #FFFFFF;
+}
+
+#transacao section p{
+    	line-height: 110%;
+    	text-align: center;
+    	font-size: 28px;
+}
+
+#transacao section p a{
+    	color:#FFFFFF;
+	text-decoration: none;
+	padding:5px;
+}
+
+#transacao section a:hover{
+	color:#DDDDDD;
+	transition-duration: 0.9s;
+	transition-timing-function: ease-in;
+	transition-property: color;
+}
+
+#conteudo{
+	width:1024px;
+	height:300px;
+	margin:auto;
+	background-color: #FFFFFF;
+}
+
+#conteudo section{
+	float:left;
+	width:335px;
+	height:300px;
+	padding:3px;
+}
+
+#conteudo section img{
+	width:100%;
+	height:140px;
+	border-radius: 10px 10px 10px;
+}
+
+#conteudo section a{
+	color:#333333;
+	text-decoration: none;
+}
+
+#conteudo section a:hover{
+	color:#000000;
+	text-decoration: underline;
+	transition-duration: 0.9s;
+	transition-timing-function: ease-in;
+	transition-property: color;
+}

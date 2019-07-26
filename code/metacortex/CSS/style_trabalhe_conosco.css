@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+#conteudo{
+	width:1024px;
+	height:615px;
+	margin:auto;
+	background-color: #FFFFFF;
+}
+
+
+#conteudo header{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+#conteudo table{
+    margin-left: 35px;
+    float: left;
+}
+
+#conteudo p{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.btn {
+    border-radius: 8px;
+    background-color: whitesmoke;
+    width: 60px;
+    height: 25px;
+}
+
+.btn:hover {
+    text-decoration: underline;
+}
+
+#img_trabalhe_conosco {
+    float: left;
+    width: 320px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: -30px;
+    border-radius: 20px;
+}

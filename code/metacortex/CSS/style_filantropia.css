@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+#conteudo{
+	width:1024px;
+	height:615px;
+	margin:auto;
+	background-color: #FFFFFF;
+}
+
+#conteudo img{
+	width:512px;
+	height:384px;
+	float:left;
+	padding: 10px;
+}

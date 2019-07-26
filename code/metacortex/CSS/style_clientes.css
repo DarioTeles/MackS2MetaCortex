@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+#conteudo{
+	width:1024px;
+	height:615px;
+	margin:auto;
+	background-color: #FFFFFF;
+}
+
+#conteudo p{
+    margin-left: 35px;
+}
+
+#conteudo ul{
+    margin-left: 50px;
+    list-style-type: circle;
+    font-weight: bold;   
+}
+
+#img_clientes{
+    float: right;
+    width: 350px;
+    height: 200px;
+    margin-right: 150px;
+    margin-top: -150px;
+    border-radius: 20px;
+    
+}
+
+#conteudo li:hover {
+    text-decoration: underline;
+    list-style-type: disc;
+    color: darkred;
+}
+
+#conteudo a{
+    text-decoration: none;
+    color: #000000;
+}

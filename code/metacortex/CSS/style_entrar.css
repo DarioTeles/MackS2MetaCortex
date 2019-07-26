@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#conteudo{
+	width:1024px;
+	height:400px;
+	margin:auto;
+	background-color: #FFFFFF;
+}
+
+
+#conteudo header{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+#conteudo table{
+    margin-left: 35px;
+	width: 400px;
+	//margin: 0 auto;
+}
+
+
+.btn {
+    border-radius: 8px;
+    //background-color: whitesmoke;
+    //width: 60px;
+    //height: 25px;
+
+	display: inline-block;
+	background-color: #ccc;
+	color: #444;
+	padding: 10px 20px;
+	text-decoration: none;
+	box-sizing: border-box;
+	border: 0px;
+}
+
+.btn:hover {
+	background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.15));
+    cursor: pointer;
+}
+
