@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"> 
-	<img src="https://github.com/DarioTeles/MackS2MetaCortex/blob/master/images/demonstracao2.png" width="800" height="400"/>
+	<img src="https://github.com/DarioTeles/MackS2MetaCortex/blob/master/images/demonstracao2.png" width="906" height="365"/>
 
 </p>
 
